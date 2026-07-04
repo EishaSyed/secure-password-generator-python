@@ -80,4 +80,4 @@ Length  : 12
 python password_generator.py
 ```
 ## Sample Output
-![password generator output](pass-generator-outout.png)
+![password generator output](pass-generator-output.png)
