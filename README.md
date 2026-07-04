@@ -79,3 +79,5 @@ Length  : 12
 ```bash
 python password_generator.py
 ```
+## Sample Output
+![password generator output](pass-generator-outout.png)
